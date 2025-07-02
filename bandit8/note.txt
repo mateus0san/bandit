@@ -1,0 +1,2 @@
+the key is in data.txt, one line of text occurs only once
+use sort and uniq
