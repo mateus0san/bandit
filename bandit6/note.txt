@@ -1,0 +1,4 @@
+Use find on /, the file has the following properties
+owned by user bandit7
+owned by group bandit6
+33 bytes in size
