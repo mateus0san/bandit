@@ -4,3 +4,4 @@ but you get a private SSH key that can be used to log into the next level.
 Note: localhost is a hostname that refers to the machine you are working on
 
 just copy the SSH key
+remember to change the SSH key permissions
