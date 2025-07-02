@@ -1,0 +1,4 @@
+Just use find inside the inhere directory, the file is
+human-readble
+1033 bytes in size
+not executable
