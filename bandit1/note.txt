@@ -1,0 +1,2 @@
+A file in the home directory contains the password, the name of the file is '-'.
+With the cat command, just use the absolute path
