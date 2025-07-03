@@ -1,0 +1,3 @@
+Good job getting a shell! Now hurry and grab the password for bandit27!
+
+more has vi, just change the shell variable and use the setuid binary
